@@ -1,0 +1,24 @@
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\bin\Debug\IOOP Assignment (Worker).exe.config
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\bin\Debug\IOOP Assignment (Worker).exe
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\bin\Debug\IOOP Assignment (Worker).pdb
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP Assignment (Worker).csproj.AssemblyReference.cache
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.Properties.Resources.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.WorkerMainForm.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP Assignment (Worker).csproj.GenerateResource.cache
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP Assignment (Worker).csproj.CoreCompileInputs.cache
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP Assignment (Worker).exe
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP Assignment (Worker).pdb
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.Edit_profile.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.login.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.CustomerMainForm.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.CheckPreviousRequestsForm.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.SubmitRequestForm.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.RequestConfirmationForm.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.Assigned_New_.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.check_status.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.AdminPage.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.RegisterNewUser.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.ServiceReport.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.UpdateUserProfile.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.ViewAllReports.resources
+C:\Users\zhesh\source\repos\IOOP Assignment (Worker)\obj\Debug\IOOP_Assignment__Worker_.YearlyReport.resources
